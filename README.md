@@ -162,3 +162,4 @@ This project helped in strengthening:
 - UI/UX design principles
 
   ## output
+  <img width="1913" height="910" alt="Image" src="https://github.com/user-attachments/assets/11332742-ad59-450e-b9b9-09b0691b6275" />
