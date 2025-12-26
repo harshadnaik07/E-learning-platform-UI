@@ -163,5 +163,5 @@ This project helped in strengthening:
 
   ## output
 <img width="1916" height="908" alt="Image" src="https://github.com/user-attachments/assets/05fd9e6b-8f0c-4299-a268-5f61369dc75e" />
-  <img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/dc161da8-2656-429a-9caa-0c2fead84cdd" />
+<img width="1917" height="910" alt="Image" src="https://github.com/user-attachments/assets/d4eb4a27-4332-4a7b-a505-c1cda7e4bb82" />
   <img width="1918" height="904" alt="Image" src="https://github.com/user-attachments/assets/1afb5878-fd3d-45f8-a63c-458f467a1d8f" />
